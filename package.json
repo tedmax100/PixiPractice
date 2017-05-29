@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tedmax100/PixiPractice/issues"
   },
-  "homepage": "https://github.com/tedmax100/PixiPractice#readme"
+  "homepage": "https://github.com/tedmax100/PixiPractice#readme",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
 }
