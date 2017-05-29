@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/tedmax100/PixiPractice#readme",
   "dependencies": {
-    "http-server": "^0.10.0"
+    "http-server": "^0.10.0",
+    "koa": "^2.2.0"
   }
 }
