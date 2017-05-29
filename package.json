@@ -1,0 +1,19 @@
+{
+  "name": "pixi",
+  "version": "1.0.0",
+  "description": "For practicing Pixi.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tedmax100/PixiPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tedmax100/PixiPractice/issues"
+  },
+  "homepage": "https://github.com/tedmax100/PixiPractice#readme"
+}
